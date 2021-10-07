@@ -1,5 +1,5 @@
 /*
-gcc-8  gl_ctx.c -o gl_ctx  -lX11 -lX11-xcb -lxcb -lGL  &&  ./gl_ctx
+gcc  gl_ctx.c -o gl_ctx  -lX11 -lX11-xcb -lxcb -lGL  &&  ./gl_ctx
 
 xdpyinfo
 glxinfo
