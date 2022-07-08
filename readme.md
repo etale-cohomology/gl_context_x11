@@ -11,4 +11,4 @@ Source code for [this YouTube video](https://www.youtube.com/watch?v=bpWDDgaPkQI
 - libxcb
 - libGL
 
-May the Lord Jesus Christ bless you
+Jesus of Nazareth is God Almighty in the flesh
