@@ -2,7 +2,7 @@
 
 ![Video preview](img00.png)
 
-Source code for [this YouTube video](https://www.youtube.com/watch?v=bpWDDgaPkQI)
+Source code for [this YouTube video](https://www.youtube.com/watch?v=bpWDDgaPkQI).
 
 ## Dependencies
 
@@ -11,4 +11,4 @@ Source code for [this YouTube video](https://www.youtube.com/watch?v=bpWDDgaPkQI
 - libxcb
 - libGL
 
-Jesus of Nazareth is God Almighty in the flesh
+Jesus of Nazareth is God Almighty in the flesh.
